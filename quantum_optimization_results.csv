@@ -1,0 +1,7 @@
+Architecture,Accuracy,Parameters
+"Original VQC (4q, 2L)",0.3,12
+"Deep VQC (4q, 3L)",0.3,16
+"6-Qubit VQC (6q, 2L)",0.3,18
+"Circular VQC (4q, 2L)",0.3,12
+Random Forest,0.8666666666666667,Many
+SVM,0.7333333333333333,Many

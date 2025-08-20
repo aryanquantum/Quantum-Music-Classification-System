@@ -1,4 +1,5 @@
 # Quantum Music Classification System
+<<<<<<< HEAD
 
 A quantum machine learning system that uses quantum circuits to classify music genres through spectral analysis and quantum feature encoding.
 
@@ -61,3 +62,6 @@ A system that combines:
 ---
 
 *"Exploring the quantum nature of musical pattern recognition."*
+=======
+A quantum machine learning system that uses quantum circuits to classify music genres through spectral analysis and quantum feature encoding.
+>>>>>>> 42002b8826fd3d0e92f37fe473c4c0705b92662f
